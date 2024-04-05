@@ -1,5 +1,1 @@
-- :telescope: I work in the field of mobile application development and backend
-
-- :seedling: I am developing with Flutter BLoC, Spring, JavaFX (according to requirements)
-
-- :zap: In my free time, I study music, read books and scientific articles.
+![GNVK](https://github.com/nkatco/nkatco/assets/67635748/9c62d918-fc8b-4615-a898-2936608b7163)
