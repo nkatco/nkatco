@@ -2,8 +2,8 @@
 
 ### 💻 Android Developer | Team Lead | Kotlin Enthusiast  
 📍 Самара, Россия  
-📫 [nikitakatcosha@gmail.com](mailto:nikitakatcosha@gmail.com)  
-🌐 [GitHub](https://github.com/nkatco) • [GitVerse](https://gitverse.ru/nkatco)
+📫 [nkatco111@gmail.com](mailto:nkatco111@gmail.com)  
+🌐 [GitHub](https://github.com/nkatco) • [GitVerse (большинство проектов тут)](https://gitverse.ru/nkatco)
 
 ---
 
